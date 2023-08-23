@@ -14,6 +14,4 @@
   <a href = "mailto:vinicius.msouza07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-souza-540a61148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![image](https://github.com/mvinicius0/mvinicius0/assets/55553671/e364f8c0-a522-4962-8a74-632f536e0def)
-
 </div>
